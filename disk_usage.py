@@ -18,6 +18,6 @@ if not check_disk_usage("/", 2*2**30, 10):
     print("ERROR: Not enough disk space")
     return 1
 
-print("Everything ok")
+print("Everything okay")
 return 0
 
